@@ -129,6 +129,20 @@ plot_policy(policy)
 - `policy[state]`: Optimal action in each state under ε-greedy learning.
 - `V[state]`: Maximum value of actions from each state.
 
+
+---
+
+
+![BlackJack_Before_MCP](BlackJack_Before_MCP.png)
+
+
+__
+
+![Blackjack_After_MCP.png](Blackjack_After_MCP.png)
+
+__
+
+![BlackJack_After_MCP_Plot.png](BlackJack_After_MCP_Plot.png)
 ---
 
 ## 📚 Why This Approach?
