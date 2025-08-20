@@ -131,16 +131,18 @@ plot_policy(policy)
 
 
 ---
-
+BlackJack_Before_MCP
 
 ![BlackJack_Before_MCP](BlackJack_Before_MCP.png)
 
 
 __
+Blackjack_After_MCP
 
 ![Blackjack_After_MCP.png](Blackjack_After_MCP.png)
 
 __
+BlackJack_After_MCP_Plot
 
 ![BlackJack_After_MCP_Plot.png](BlackJack_After_MCP_Plot.png)
 ---
